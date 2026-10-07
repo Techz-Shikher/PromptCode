@@ -7,6 +7,7 @@
 **Team Members**
 - **Shikher Singh — Team Leader / Developer**
 - **Kishan Gupta — Developer**
+- PPT-https://docs.google.com/presentation/d/1CqiQx8H1wnmWvbxSbg6vhqjU5G01NA9b/edit?usp=sharing&ouid=113147895619314698354&rtpof=true&sd=true
 
 PromptCode is an AI-powered learning platform designed to help students and developers improve the way they communicate with AI for **coding, debugging, and software development**.
 
